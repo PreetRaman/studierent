@@ -1,0 +1,9 @@
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+.directory
+/nbproject/private/
+/nbproject/*
+/webroot/img/properties/*
+/webroot/img/users/*
